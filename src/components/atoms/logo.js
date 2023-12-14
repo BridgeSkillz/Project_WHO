@@ -18,12 +18,13 @@ const Logo = () => {
     </div>   
         </div>
       </div>
-
+      <div className='L2'>
       <div className='heading'>
         <h1>Question 1</h1>
       </div>
 
       <hr className='row' />
+    </div>
     </div>
   )
 }

@@ -3,7 +3,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div>
+    <div className="h">
       <div className="paragraph2">
         <p>On an open ground, a motorist follows a track that turns to his left by
         an angle of 60° after every 500 m. Starting from a given turn, specify
