@@ -1,0 +1,17 @@
+.Question{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 1rem 2rem;
+}
+.Question *{
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+}
+.Question .statement{
+    font-size: 1.3rem;
+}
+.Question .statement::first-letter{
+    text-transform: capitalize;
+
+}
