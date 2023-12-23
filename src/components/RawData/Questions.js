@@ -1,13 +1,13 @@
 const Questions = [
     {
       id: "1rt457",
-      question: "In the context of environmental conservation, which of the following initiatives is most effective for reducing carbon footprints at a community level?",
+      question: "On an open ground, a motorist follows a track that turns to his left by an angle of 60° after every 500 m. Starting from a given turn, specify the displacement of the motorist at the third, sixth and eighth turn. Compare the magnitude of the displacement with the total path length covered by the motorist in each case.",
+      type: "Image",
       options: [
-        { id: "o1x9a2", type: "text", content: "Implementing a city-wide recycling program" },
-        { id: "o2h7b3", type: "text", content: "Encouraging the use of public transportation" },
-        { id: "o3g5c4", type: "text", content: "Implementing a tax on carbon emissions" },
-        { id: "o4f8d5", type: "text", content: "Promoting the installation of solar panels in homes" },
-        { id: "o5e6e6", type: "text", content: "Introducing community gardens and local farming" },
+        { id: "o1x9a2", type: "text", content: "305 m" },
+        { id: "o2h7b3", type: "text", content: "400 m" },
+        { id: "o3g5c4", type: "text", content: "100 m" },
+        { id: "o4f8d5", type: "text", content: "200 m" },
       ],
     },
     {
